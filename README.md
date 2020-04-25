@@ -7,9 +7,9 @@
 # Binary Search Tree Implementation POC in Java
 
 This is a simple example of a binary search tree implementation in Java. We create a custom ```Node``` class which can take values of
-integer type. We also create a ```BinarySearchTree``` class which will hold the actual binary searxh tree.
+integer type. We also create a ```BinarySearchTree``` class which will hold the actual binary search tree.
 
-We provide three major traversals for our binary tree:
+We provide three major traversals for our binary search tree:
 - pre order traversal
 - in order traversal
 - post order traversal
@@ -31,11 +31,11 @@ java -jar target/binary_search_tree_implementation_poc-1.0-SNAPSHOT.jar
 
 # Illustrating different traversals
 
-For our example, we'll consider the following binary tree, which is a very simple example: 
+For our example, we'll consider the following binary search tree, which is a very simple example: 
 
 ![Binary Search Tree Illustration](./images/Binary_Search_Tree.png "Binary Search Tree")
 
-The following traversals are for this example binary tree:
+The following traversals are for this example binary search tree:
 
 ### Pre order traversing:
 
